@@ -13,4 +13,4 @@ options
 -------
 A json object is required, as you can see in the examples
 
-![options] (./inlinegraph.png)
+![options](./inlinegraph.png)
