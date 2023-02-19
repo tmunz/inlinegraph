@@ -2,9 +2,11 @@ inlinegraph
 ===========
 if you want to use this library, you can simply copy this javascript file to your project: [inlinegraph.js](./docs/inlinegraph.js).
 
-You can see how to integrate the inlinegraph library on the example of this [working project](./docs).
+You can see how to integrate the inlinegraph library based on the example of this working project
+- [code](./docs) 
+- [webview](https://tmunz.github.io/inlinegraph).
 
-All graphs work with SVG and can be created by using 
+All graphs are based on SVG and can be created by using 
 $(selector).inlinegraph(values, options);
 
 values
