@@ -1,7 +1,8 @@
 inlinegraph
 ===========
-you can copy this js-File to your project: [inlinegraph.js](./docs/inlinegraph.js).
-You can see how to integrate it here as a working example in [docs](./docs).
+if you want to use this library, you can simply copy this javascript file to your project: [inlinegraph.js](./docs/inlinegraph.js).
+
+You can see how to integrate it here on the example of this [working project](./docs).
 
 All graphs work with SVG and can be created by using 
 $(selector).inlinegraph(values, options);
